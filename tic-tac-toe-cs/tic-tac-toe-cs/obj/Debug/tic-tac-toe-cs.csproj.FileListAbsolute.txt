@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\obj\Debug\tic-tac-toe-cs.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\obj\Debug\tic-tac-toe-cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\obj\Debug\tic-tac-toe-cs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\bin\Debug\tic-tac-toe-cs.exe.config
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\bin\Debug\tic-tac-toe-cs.exe
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\bin\Debug\tic-tac-toe-cs.pdb
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\obj\Debug\tic-tac-toe-cs.exe
+C:\Users\user\Desktop\c#\tic-tac-toe-cs\tic-tac-toe-cs\obj\Debug\tic-tac-toe-cs.pdb
